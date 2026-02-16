@@ -133,13 +133,13 @@ Open the app in two browser tabs and start chatting in real-time.
 
 ## 📸 Screenshots
 
-### Chat Interface
+### Person1
 ![Chat UI](screenshots/Screenshot1.png)
 
-### Messaging Demo
+### Person2
 ![Chat Working](screenshots/Screenshot2.png)
 
-### Backend Running
+### person3
 ![Server](screenshots/Screenshot3.png)
 
 
