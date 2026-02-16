@@ -131,6 +131,18 @@ Open the app in two browser tabs and start chatting in real-time.
 
 ---
 
+## 📸 Screenshots
+
+### Chat Interface
+![Chat UI](screenshots/Screenshot1.png)
+
+### Messaging Demo
+![Chat Working](screenshots/Screenshot2.png)
+
+### Backend Running
+![Server](screenshots/Screenshot3.png)
+
+
 ## 📦 Future Improvements
 
 * Add user authentication
