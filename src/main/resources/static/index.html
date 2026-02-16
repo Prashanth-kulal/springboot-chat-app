@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Java Chat App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="chat-container">
+    <h2 class="title">💬 Real-Time Chat</h2>
+
+    <div class="join-box">
+        <input id="name" placeholder="Enter your name" />
+        <button class="btn join-btn" onclick="connect()">Join</button>
+    </div>
+
+    <div id="chat" class="chat-box"></div>
+
+    <div class="input-area">
+        <input id="message" placeholder="Type a message..." />
+        <button class="btn send-btn" onclick="sendMessage()">Send</button>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sockjs-client@1/dist/sockjs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/stompjs@2/lib/stomp.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
